@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Info about COVID-19</h1>
+<p>Stay Safe!</p>
+<h2>Symptoms<h2>
+<h3> <ul> <li>Fever or chills</li> <li>Shortness of breath  <li>difficulty breathing</li> <li>Coughing</li> </ul> </h3>
+
+<a href="https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html ">Visit the CDC for more Info</a>
+
+</body>
+</html>
