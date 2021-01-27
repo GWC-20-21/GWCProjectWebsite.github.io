@@ -6,3 +6,4 @@ Here is some information about a website.
 Add your Github user name to this file:
 
 @hftandang
+@sophia-hubscher
