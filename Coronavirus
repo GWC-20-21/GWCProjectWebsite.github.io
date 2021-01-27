@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Covid-19 Information & Tips</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+/* Style the body and change the font*/
+body {
+  font-family: 'Garamond', sans-serif;
+  margin: 0;
+}
+
+h1{
+  font-family: 'Garamond', cursive;
+}
+
+h2,h3{
+  font-family: 'Garamond', cursive;
+}
+
+/* Header/logo Title and change the color*/
+.header {
+  padding: 80px;
+  text-align: center;
+  background: white;
+  color: black;
+}
+
+/* Increase the font size of the heading */
+.header h1 {
+  font-size: 40px;
+}
+
+/* Style the top navigation bar and change the color */
+.navbar {
+  overflow: hidden;
+  background-color: #D8FFD9;
+}
+
+/* Style the navigation bar links */
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+
+/* Column container */
+.row {  
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+}
+
+/* Create two unequal columns that sits next to each other and change color*/
+/* Sidebar/left column */
+.side {
+  -ms-flex: 30%; /* IE10 */
+  flex: 30%;
+  background-color: #D8F9FF;
+  padding: 20px;
+  color: black;
+  text-align:center;
+}
+
+/* Main column */
+.main {   
+  -ms-flex: 70%; /* IE10 */
+  flex: 70%;
+  background-color: #D8FFD9;
+  padding: 20px;
+}
+
+/* Image Container */
+.imgcontmain {
+  background-color: black;
+  width: 100%;
+  padding: 20px;
+}
+
+.imgcontside{
+  width: 100%;
+}
+
+/* Image Formatting */
+.img{
+  display:block;
+  margin:auto;
+}
+
+.boxleft {
+  width: 400px;
+  border: 8px solid white;
+  padding: 10px;
+  margin: 20px;
+  float: left;
+}
+.boxright {
+  width: 400px;
+  border: 8px solid white;
+  padding: 10px;
+  margin: 20px;
+  float: right;
+}
+
+/* Footer */
+.footer {
+  padding: 10px;
+  text-align: center;
+  background: #FFCACA;
+  color: black;
+}
+
+</style>
+</head>
+ <body>
+   
+  
+  
+<div class="header">
+  <center><h1>Covid-19 Information & Tips</h1></center>
+<center>  <p>
+    </p> <center>
+
+   
+<div class="navbar">
+<h1> Websites For Information</h1>
+</div>
+
+   
+<div class="row">
+  
+
+  <div class="side">
+    
+    <h2>Covid-19 Information Tips</h2>
+    <div class="imgcontside" style="height:200px;">
+      <img class="img" style="height:100%;" src="https://cdn.glitch.com/259fd645-81ec-412f-9838-8d460399e74b%2FCOVID-reporting.jpg?v=1611182500445" alt="Stop Covid-19!">
+    </div>
+    
+    <h3>A lot of us are suffering from Covid-19, also well known as Coronavirus. Most of us are taking precautions, while others aren't. And to inform you, Coronavirus is real, and is spreading, and it is up to you to keep yourself safe from it, along with your family. Here are some tips, and trusted medical sites with information about how to keep you safe from it, and symptoms to alert you if you have it. Scroll down for more information! <h3>
+     <p></p>
+    
+    <h2>
+      Websites For Covid Information
+    </h2>
+      <h3><a href="https://www.cdc.gov/">Visit Centers For Disease Control!</a><h3>
+      <h3><a href="https://www.christenseninstitute.org/results/?_sf_s=coronavirus">Look At Christensen Institute!</a><h3>
+      <h3><a href="https://www.who.int/">A Sneak Peak At W.H.O!</a><h3>
+         
+    <h2>
+    Websites For Covid Symptoms</h2>
+    <p>
+     <h3><a href="https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html?utm_campaign=AC_CRNA">Visit Centers For Disease Control!</a><h3>
+     <h3><a href="https://www.healthline.com/health-news/covid-19-symptoms-usually-show-up-in-this-order">Get A Sneak Peak At HealthLine!</a><h3>
+     <h3><a href="https://www.umms.org/coronavirus/what-to-know/diagnosis-symptoms/symptoms">Have A Look At U.M.M.S!</a><h3>
+        
+    
+     
+    </p>
+   
+  </div>
+  
+    <div class="main">
+     <div>
+       <div class="boxleft">
+       <h2> Washing Hands</h2>
+      <ul>
+        <li><h4>You should wash your hands therally, with soap!<h4></li>
+        <li><h4>Always try to sing "Happy Birthday" 2 times! <h4></li>
+        <li><h4>If you don't have soap, bring gloves and sanitizer!<h4></li>
+      </ul>
+       
+       </div>
+       <div class="boxright">
+       <h2>
+        Wearing Masks
+      </h2>
+      <ul>
+        <li><h4>Always wear a mask, you made, or an amazon mask!<h4></li>
+        <li><h4>A normal surgical mask, or clone mask will do!<h4></li>
+         <li><h4>Put it on tightly, to cover your nose, and mouth!<h4></li>
+      </ul>
+       <br>
+       </div>
+       <div class="boxleft">
+      <h2>
+        Maintaining Distance
+      </h2>
+      <ul>
+        <li><h4>Try to be 6 feet apart from everyone you are near!<h4></li>
+        <li><h4>Be cautious, even if they are your family members!<h4></li>
+        <li><h4>If you are needed to be closer, keep on your mask!<h4></li>
+      </ul>
+       </div>
+  </div>
+  </div>
+  </body>
+</html>
