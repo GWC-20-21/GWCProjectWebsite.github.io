@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My form</title>
+</head>
+<body>
+
+<h1>Form Heading</h1>
+<p>This form is for logging in.</p>
+
+<form action="processingpage.php">
+User name: <input type="text" name="username"/><br>
+Password: <input type="password" name="password"/><p>
+<input type="submit" value="Log in" />
+</form>
+
+</body>
+</html>
