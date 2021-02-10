@@ -1,0 +1,5 @@
+<!DOCTYPE html> <html> <head> <title>Page Title</title> </head> 
+    <body style="height: 1000px; background: linear-gradient(to bottom, #99ffcc 0%, #ff00ff 100%)">> <h1>Make an Appointment</h1> <form action="proccessing.php"> <label for="username">Username:</label> <input type="text" id="username" name="username"> <p> <label for="datatime">Date and time for the appointment:</label> <input type="datetime-local" id = "datetime" name="datetime"> <br> </form> </body> </html>
+ <label for="email">Email:</label>
+ <input type="text" id="email" name="email">
+ <input type="submit" value="Submit">
