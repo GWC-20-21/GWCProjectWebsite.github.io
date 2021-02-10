@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Make an appointment</title>
+</head>
+
+<body style="height: 500px; background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%)">
+
+
+<h1>Make an appointment</h1>
+<p>Use this page to make an appointment.</p>
+
+<form action="specialprocessing.php">
+	<label for="username">User name:</label>
+    <input type="text" id="username" name="username"><p>
+    
+    <label for="datetime">Date and time for appointment:</label>
+    <input type="datetime-local" id="datetime" name="datetime"><p>
+    
+ 	<label for="email">Email:</label>
+    <input type="email" id="email" name="email"><p>
+    
+    <input type="submit" value="Set appointment">
+
+</form>
+
+</body>
+</html>
