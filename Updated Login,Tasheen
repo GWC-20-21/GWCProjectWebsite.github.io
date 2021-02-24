@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<style>
+
+</style>
+
+</head>
+
+<body style="height: 650px; background: linear-gradient(to bottom, #c2f7ff 0%, #f0dbff 100%)">
+
+
+<div id="grad1">
+
+
+
+<p><h1><center>Login Or Sign-Up<center></h1><p>
+
+
+
+<h3><center>Please Login Or Sign-Up Below!<center><h3>
+
+
+
+<div class="row">
+
+  
+
+
+
+  <div class="side">
+
+    
+
+    <div class="imgcontside" style="height:375px;">
+
+      <img class="img" style="height:100%;" src="https://cdn.glitch.com/874f0c45-ee81-4c70-bc7d-4c7b5a1b40f4%2FLogin_v4.jpg?v=1612389199739" alt="">
+
+
+
+</div>
+
+    
+
+<form action="google.com">
+
+<p>Username: <input type="text" name="Username"/><br><p>
+
+Password: <input type="password" name="Password"/><p>
+
+<h3><input type="submit"value="Login"/><h3>
+
+</form>
+
+
+
+</div>
+
+
+
+</body>
+
+</html>
+
+
+
