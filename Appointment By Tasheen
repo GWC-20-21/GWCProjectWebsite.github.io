@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Make an appointment</title>
+</head>
+
+<body style="height: 650px; background: linear-gradient(to bottom, #ffbbad 0%, #ffff5e 100%)">
+
+
+<h1><center>Make An Appointment On Zoom!<center></h1>
+<h3><center>Fill Out The Following Questions To Schedule a Zoom Meeting!<center><h3>
+
+<div class="imgcontside" style="height:300px;">
+      <img class="img" style="height:100%;" src="https://diversity.utah.edu/wp-content/uploads/Virtual-Events-Image.jpg" alt="Let's Do Zoom!">
+    </div>
+<p>
+<form action="specialprocessing.php">
+	<label for="username">Your Username:</label>
+    <input type="text" id="username" name="username"><p>
+    
+    <p><label for="other person">Friend's Username:</label>
+    <input type="text" id="username" name="username"><p>
+    
+    <p><label for="datetime">Date And Time For Appointment:</label>
+    <input type="datetime-local" id="datetime" name="datetime"><p>
+    
+ 	<label for="email">Email Of Friend:</label>
+    <input type="email" id="email" name="email"><p>
+    
+    <input type="submit" value="Set Appointment">
+
+</form>
+
+</body>
+</html>
+
